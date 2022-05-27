@@ -1,0 +1,148 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+body * {
+    font-family: 'Poppins', sans-serif;
+}
+/* h1, h2, h3, h4, h5, h6 {
+    color: hotpink
+} */
+
+section:hover{
+  background-color: #1DA1F2;
+  color: white !important;
+}
+
+section :hover h2{
+  color: white !important;
+}
+
+section:hover a {
+    color: #F5F8FA !important;
+}
+
+section {
+    /* display: flex; */
+    /* text-align: justify; */
+    width: 33.1%;
+    height: inherit;
+    /* border: 1px solid red; */
+    margin: 10px;
+    padding: 10px
+}
+
+.bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.row {
+    display: flex;
+    overflow: hidden;
+    height: 375px;
+}
+
+.row2 {
+    display: flex;
+    overflow: hidden;
+    height: 600px
+}
+
+.row3 {
+    display: flex;
+    overflow: hidden;
+}
+
+/* .row2 section:hover{
+    background-color: #1DA1F2;
+    color: white !important;
+} */
+
+section * {
+    width: 100%;
+}
+
+header {
+    color: blue;
+    background-color: #1DA1F2;
+    height: 60px;
+    font-size: 20;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    top:0;
+    left:0;
+    padding-bottom: 20px
+}
+
+aside {
+    margin-top: 80px;
+}
+
+h1 {
+    color: white;
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: large;
+}
+
+.tweet {
+    height: 400px;
+    border: none;
+}
+
+button {
+    font-family: 'Poppins', sans-serif;
+    margin-top: 20px;
+    color: white;
+    background-color: #1DA1F2;
+    border-radius: 5px;
+    border-color: #1DA1F2;
+    font-size: large;
+    padding: 8px;
+}
+
+input {
+    font-family: 'Poppins', sans-serif;
+    margin-left: 5px;
+    width: 300px
+    /* height: 30px; */
+}
+
+a {
+    color: #1DA1F2;
+    text-decoration: none;
+    font-weight: 900px;
+}
+
+h1 a {
+    color: white;
+}
+
+a:hover {
+    color:#09334e !important;
+}
+
+header {
+    z-index: 99 !important;
+}
+
+.engagementScores{
+    white-space: pre-line;
+    position:relative;
+    left:50px;
+}
+
+iframe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: none;
+}
+

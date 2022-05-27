@@ -1,0 +1,776 @@
+{
+    "topic_engagement": {
+        "TV Shows": 2971,
+        "Person": 1053679,
+        "Digital Creator": 1053679,
+        "Multimedia Franchise": 3790,
+        "Politician": 437020,
+        "Sport": 27,
+        "Sports League": 27,
+        "Athlete": 27,
+        "Brand": 70809,
+        "Entities [Entity Service]": 6920,
+        "Interests and Hobbies Vertical": 85121,
+        "Interests and Hobbies Category": 80613,
+        "Interests and Hobbies": 6554,
+        "Holiday": 2537,
+        "Google Product Taxonomy": 326,
+        "Movie Genre": 574,
+        "Movie": 223,
+        "Musician": 424,
+        "Music Genre": 424
+    },
+    "most_positive_tweet": "1523843269184000003",
+    "most_negative_tweet": "1522267223347236868",
+    "time_engagement": {
+        "night": 29468,
+        "early morning": 0,
+        "late morning": 0,
+        "early afternoon": 667,
+        "late afternoon": 306228,
+        "early evening": 639944,
+        "late evening": 77462
+    },
+    "sentiments": {
+        "joy": 55,
+        "anger": 18,
+        "sadness": 5
+    },
+    "active_hours": {
+        "18": 17,
+        "17": 15,
+        "16": 13
+    },
+    "top_interests": {
+        "Digital Creator": 1053679,
+        "Person": 1053679,
+        "Politician": 437020
+    },
+    "most_interacted_user": [
+        "1108703729853837314",
+        "14803891"
+    ],
+    "longest_follower": {
+        "created_at": "2022-05-17T18:19:02.000Z",
+        "id": "1526628322179948544",
+        "name": "Marcos VPZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1526628636912242688/2j287Rjb_normal.jpg",
+        "username": "VpzMarcos"
+    },
+    "most_popular_tweet": "1529540474645921792",
+    "overall_compound_score": 0.12404941176470595,
+    "polarity_count": {
+        "positive tweets": 36,
+        "negative tweets": 18,
+        "netural tweets": 31
+    },
+    "top_3_tweets": [
+        "1525876399365468161",
+        "1526956272360099840",
+        "1529540474645921792"
+    ],
+    "newest_10_followers": [
+        {
+            "created_at": "2012-03-21T05:26:57.000Z",
+            "id": "532031319",
+            "name": "Hurricane Hanna(h)",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1183582600520036352/ZHzSkF0d_normal.jpg",
+            "username": "hfeltis"
+        },
+        {
+            "created_at": "2016-10-18T01:33:00.000Z",
+            "id": "788191115509760000",
+            "name": "CB",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1489051718348419073/Ks7SJBX-_normal.jpg",
+            "username": "CrystalfromJCMO"
+        },
+        {
+            "created_at": "2009-09-12T15:00:49.000Z",
+            "id": "73659479",
+            "name": "coping admirably.",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1510016279662505987/8bZJRrIJ_normal.jpg",
+            "username": "viadivyaa"
+        },
+        {
+            "created_at": "2016-02-02T02:08:28.000Z",
+            "id": "4870962275",
+            "name": "phred",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1397276369961340928/qEn51OOi_normal.jpg",
+            "username": "cophater42069"
+        },
+        {
+            "created_at": "2022-04-25T19:16:33.000Z",
+            "id": "1518669813802958849",
+            "name": "b\u00f6zen \ud83e\udec3",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1528560439407177728/OPPRzkyp_normal.jpg",
+            "username": "deepstatejake"
+        },
+        {
+            "created_at": "2010-09-15T20:37:12.000Z",
+            "id": "191189704",
+            "name": "Carolee Campbell",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/789668691550019588/S3yVjhVu_normal.jpg",
+            "username": "caroleeek"
+        },
+        {
+            "created_at": "2019-04-18T16:13:57.000Z",
+            "id": "1118910547951534081",
+            "name": "Chuck McPootin",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1494281191918346247/BRRss8OT_normal.jpg",
+            "username": "ChuckMcPootin"
+        },
+        {
+            "created_at": "2010-01-25T20:07:50.000Z",
+            "id": "108391117",
+            "name": "Sportymom",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1316414590813691905/4k8gj5JF_normal.jpg",
+            "username": "jmamy6"
+        },
+        {
+            "created_at": "2018-05-02T04:08:09.000Z",
+            "id": "991529751624892416",
+            "name": "David",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1369821996985380867/TC0iBHsJ_normal.jpg",
+            "username": "dh35327"
+        },
+        {
+            "created_at": "2010-10-18T22:20:33.000Z",
+            "id": "204527748",
+            "name": "Benjamin R. Umiker",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1172158108078096387/ia6Yyt6F_normal.jpg",
+            "username": "bumikaze"
+        },
+        {
+            "created_at": "2013-06-12T21:05:09.000Z",
+            "id": "1511648485",
+            "name": "red",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/344513261570334500/18dd0cc2b49240b7160cc3365b384d7c_normal.jpeg",
+            "username": "vickster1212"
+        },
+        {
+            "created_at": "2015-08-21T21:50:24.000Z",
+            "id": "3434787232",
+            "name": "cole",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1130891749591793667/vhCAKSdg_normal.png",
+            "username": "cshermdiggity"
+        },
+        {
+            "created_at": "2011-09-19T13:52:03.000Z",
+            "id": "376203650",
+            "name": "Larry Mann",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/743595184257007617/xKIwRN4L_normal.jpg",
+            "username": "tulsavinoexpert"
+        },
+        {
+            "created_at": "2016-08-21T17:59:07.000Z",
+            "id": "767420783949848576",
+            "name": "Carter Strauch",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1357053697155506179/YdMHsG8w_normal.jpg",
+            "username": "carter_strauch"
+        },
+        {
+            "created_at": "2011-02-22T17:38:21.000Z",
+            "id": "256108364",
+            "name": "Laaaaaanky!",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1498494825817067521/IZz4kACT_normal.jpg",
+            "username": "Ajebor_Hustler"
+        },
+        {
+            "created_at": "2019-09-12T01:44:16.000Z",
+            "id": "1171962624671539201",
+            "name": "Emma McElderry",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1515418808097423364/AnGXPNSj_normal.jpg",
+            "username": "EmmaMcelderry"
+        },
+        {
+            "created_at": "2017-11-20T02:25:24.000Z",
+            "id": "932434671887093760",
+            "name": "nicole",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1445578200042467331/ooDCqOEy_normal.jpg",
+            "username": "nickifreeley_"
+        },
+        {
+            "created_at": "2015-05-26T02:20:29.000Z",
+            "id": "3226710086",
+            "name": "Ayat\ud83e\udd8b",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1387620364063150082/GfAcDG_7_normal.jpg",
+            "username": "ayeeet_"
+        },
+        {
+            "created_at": "2013-01-14T23:02:29.000Z",
+            "id": "1090415678",
+            "name": "Brooks Sturm",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1172672506991394816/aL1FXQgL_normal.jpg",
+            "username": "DuckDuckBrooks"
+        },
+        {
+            "created_at": "2020-06-12T05:39:31.000Z",
+            "id": "1271316130104086533",
+            "name": "gab",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1271318906599137282/ZkrDtdcM_normal.jpg",
+            "username": "Agingboobs"
+        },
+        {
+            "created_at": "2008-08-27T17:57:35.000Z",
+            "id": "16014901",
+            "name": "Valabama",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/552624087428640768/ec4xurQy_normal.jpeg",
+            "username": "valabama"
+        },
+        {
+            "created_at": "2014-09-16T19:00:21.000Z",
+            "id": "2813599105",
+            "name": "Morty Valdeens",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/815645152400195584/RwwA1_Z7_normal.jpg",
+            "username": "matthewvaldini"
+        },
+        {
+            "created_at": "2020-09-01T19:53:48.000Z",
+            "id": "1300884292550234113",
+            "name": "bird app bad",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1301293783422824449/aETSFUfd_normal.jpg",
+            "username": "SK_napper"
+        },
+        {
+            "created_at": "2009-01-20T16:38:09.000Z",
+            "id": "19243914",
+            "name": "all men are cremated equal",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1522817894941442048/qPnOUdsw_normal.jpg",
+            "username": "gigapet666"
+        },
+        {
+            "created_at": "2020-06-09T06:39:31.000Z",
+            "id": "1270244060276678662",
+            "name": "McGuire Wood \ud83c\udf43",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1529001285382438912/KSHJ0D7D_normal.jpg",
+            "username": "Jioriku"
+        },
+        {
+            "created_at": "2021-02-12T21:53:25.000Z",
+            "id": "1360346256644579328",
+            "name": "Benny Ramirez",
+            "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "username": "BennyRa33985881"
+        },
+        {
+            "created_at": "2022-05-16T23:28:37.000Z",
+            "id": "1526343837018374146",
+            "name": "Cohen Yates",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1526345116532854784/QRmLzJOr_normal.jpg",
+            "username": "cohen_yates2"
+        },
+        {
+            "created_at": "2013-12-26T04:27:12.000Z",
+            "id": "2262309559",
+            "name": "Ben Grosse",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1362599555934670852/-LpjQ_pe_normal.jpg",
+            "username": "ben_grosse"
+        },
+        {
+            "created_at": "2015-04-15T22:11:55.000Z",
+            "id": "3158293999",
+            "name": "Kate Warming",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/588467595361161216/Aza50D-c_normal.png",
+            "username": "KatWarming"
+        },
+        {
+            "created_at": "2012-03-12T05:48:26.000Z",
+            "id": "521991784",
+            "name": "BRUCE",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/683765731301978112/59xBTJUO_normal.jpg",
+            "username": "BLVII"
+        },
+        {
+            "created_at": "2018-12-18T16:24:23.000Z",
+            "id": "1075064242775171072",
+            "name": "Lauren Kujath",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1516615999730208780/p0E4-Wns_normal.jpg",
+            "username": "KujathLauren"
+        },
+        {
+            "created_at": "2012-05-06T00:09:36.000Z",
+            "id": "572168075",
+            "name": "marcus",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/907939130641969152/dSBz2FSl_normal.jpg",
+            "username": "marcusjpolina"
+        },
+        {
+            "created_at": "2021-10-17T23:24:35.000Z",
+            "id": "1449878969541611520",
+            "name": "nicole land \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1502363170589093892/b0b92woU_normal.jpg",
+            "username": "autistmoder"
+        },
+        {
+            "created_at": "2019-02-22T21:40:45.000Z",
+            "id": "1099061458049122304",
+            "name": "sarah freed",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1481308692461101062/kM2zY6Kl_normal.jpg",
+            "username": "fritzfried"
+        },
+        {
+            "created_at": "2017-07-26T02:36:29.000Z",
+            "id": "890038080656355328",
+            "name": "randall",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1455246950152933384/PVKcAXPF_normal.jpg",
+            "username": "cropfails"
+        },
+        {
+            "created_at": "2013-09-26T22:08:16.000Z",
+            "id": "1909318224",
+            "name": "jecc",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1063233623028088833/xFIFvS_A_normal.jpg",
+            "username": "jessnr16"
+        },
+        {
+            "created_at": "2016-06-25T23:49:46.000Z",
+            "id": "746852919857778688",
+            "name": "Ethan Price",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1488311388036603907/hnpQP4pP_normal.jpg",
+            "username": "EthanJelloPrice"
+        },
+        {
+            "created_at": "2022-02-15T12:42:09.000Z",
+            "id": "1493566248105488388",
+            "name": "Lisa",
+            "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "username": "Lisa48237739"
+        },
+        {
+            "created_at": "2019-03-10T02:46:48.000Z",
+            "id": "1104574294514958341",
+            "name": "Patrick Riley",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1104574827363557376/Yf9LLBY5_normal.jpg",
+            "username": "sixersloverpat3"
+        },
+        {
+            "created_at": "2022-03-03T06:58:59.000Z",
+            "id": "1499278013095374849",
+            "name": "modern mythology",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1499278673782149123/IoKLVDBd_normal.jpg",
+            "username": "modernmytholog5"
+        },
+        {
+            "created_at": "2021-11-19T21:40:54.000Z",
+            "id": "1461811677108842501",
+            "name": "Abigail Welty",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1461811749729050628/HHAMLAAU_normal.jpg",
+            "username": "welty_abigail"
+        },
+        {
+            "created_at": "2009-09-01T13:32:47.000Z",
+            "id": "70679575",
+            "name": "kristin",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1446509669971898375/DofGB05C_normal.jpg",
+            "username": "krstinn"
+        },
+        {
+            "created_at": "2015-02-05T19:44:36.000Z",
+            "id": "3010531621",
+            "name": "mclain he/him",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/575063476554592258/jeKXC9Y5_normal.jpeg",
+            "username": "dystopyansoc"
+        },
+        {
+            "created_at": "2011-11-23T19:41:06.000Z",
+            "id": "419778669",
+            "name": "noodle princess\ud83c\udf5c",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1489857555882860549/N37MpnBI_normal.jpg",
+            "username": "hoewalks"
+        },
+        {
+            "created_at": "2020-09-04T17:45:14.000Z",
+            "id": "1301939348233957377",
+            "name": "Chippys",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1414363130788974592/n40ypoWj_normal.jpg",
+            "username": "Jack55193244"
+        },
+        {
+            "created_at": "2009-02-17T20:40:31.000Z",
+            "id": "21127774",
+            "name": "chris o\u2019connell",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1465543840325152773/757mxBqr_normal.jpg",
+            "username": "theechrisoc"
+        },
+        {
+            "created_at": "2016-06-12T18:23:31.000Z",
+            "id": "742059774485889026",
+            "name": "Bartosz Trybuszewski",
+            "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "username": "bartosz234562"
+        },
+        {
+            "created_at": "2009-05-17T20:41:16.000Z",
+            "id": "40732344",
+            "name": "Spencer Perry",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1270767489308332038/QslE8WAT_normal.jpg",
+            "username": "TheSpencerPerry"
+        },
+        {
+            "created_at": "2011-03-14T16:47:00.000Z",
+            "id": "266088287",
+            "name": "jakey",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1510838199400091651/cbp38c9z_normal.jpg",
+            "username": "mom_moiselle"
+        },
+        {
+            "created_at": "2015-08-13T16:46:16.000Z",
+            "id": "3314481972",
+            "name": "Caboose",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1179154313802928128/A_cS4amj_normal.jpg",
+            "username": "NotCaboose"
+        },
+        {
+            "created_at": "2010-08-10T07:49:03.000Z",
+            "id": "176723428",
+            "name": "zootnewton",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1235950597221814278/PKy4qhEw_normal.jpg",
+            "username": "zootnewton"
+        },
+        {
+            "created_at": "2011-08-24T16:07:32.000Z",
+            "id": "361317020",
+            "name": "Leigh K. Peterson",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/964702699592695808/NTfYAr62_normal.jpg",
+            "username": "leighkpeterson"
+        },
+        {
+            "created_at": "2014-08-21T12:58:41.000Z",
+            "id": "2752106731",
+            "name": "Levan",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/635911542962262016/fM0Xd7g1_normal.jpg",
+            "username": "26Leonid"
+        },
+        {
+            "created_at": "2022-05-03T17:36:58.000Z",
+            "id": "1521544002364866561",
+            "name": "AtomicAnt",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1521549645293359104/gKiFh9lJ_normal.jpg",
+            "username": "_Atomic_Ant"
+        },
+        {
+            "created_at": "2009-01-06T16:48:01.000Z",
+            "id": "18683321",
+            "name": "Chrisp Gera",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1242287304116404225/Gi_enBBz_normal.jpg",
+            "username": "chrisgera"
+        },
+        {
+            "created_at": "2017-03-18T23:11:44.000Z",
+            "id": "843238519317450753",
+            "name": "Colon Musk, CEO of GaceX",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1123263006945755136/-lUw_hJu_normal.png",
+            "username": "hangukhiphop"
+        },
+        {
+            "created_at": "2013-08-25T01:17:49.000Z",
+            "id": "1697793204",
+            "name": "Logan Pollock",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1207474187427815424/qcpamQ6a_normal.jpg",
+            "username": "loganxpollock"
+        },
+        {
+            "created_at": "2016-06-23T11:16:15.000Z",
+            "id": "745938511614849024",
+            "name": "Love\ud83c\udff3\ufe0f\u200d\ud83c\udf08\u2721\ufe0e",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1362957971806945284/xFDOrgG-_normal.jpg",
+            "username": "loveisasleep"
+        },
+        {
+            "created_at": "2017-04-03T20:57:55.000Z",
+            "id": "849003050408824836",
+            "name": "Delphin Mutangana",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1398672421884989445/TNeiYagr_normal.jpg",
+            "username": "DelphinMutanga1"
+        },
+        {
+            "created_at": "2020-05-21T16:41:27.000Z",
+            "id": "1263510094924386304",
+            "name": "madeleine\ud83c\udf3f",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1527823355495186432/YzUR25w8_normal.jpg",
+            "username": "mgaffney2006"
+        },
+        {
+            "created_at": "2012-10-26T14:51:19.000Z",
+            "id": "906155300",
+            "name": "Thesasaurus Rex",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1512919905133338630/tv85oCn0_normal.jpg",
+            "username": "GabeofThorns"
+        },
+        {
+            "created_at": "2015-08-22T22:21:40.000Z",
+            "id": "3436087198",
+            "name": "ben",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1528421623480471552/CHPvdRqk_normal.jpg",
+            "username": "dolphnspaceship"
+        },
+        {
+            "created_at": "2014-04-25T07:20:12.000Z",
+            "id": "2507835371",
+            "name": "Siroteur d'\u00e9lite\ud83e\udd42",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1453993789924823042/PLBGVkpw_normal.jpg",
+            "username": "wakeupcall500"
+        },
+        {
+            "created_at": "2021-10-07T22:07:53.000Z",
+            "id": "1446235841114877953",
+            "name": "melrocks",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1525962103756050437/4vz08494_normal.jpg",
+            "username": "melrocks9"
+        },
+        {
+            "created_at": "2021-06-25T21:57:17.000Z",
+            "id": "1408544815478980611",
+            "name": "Queeny",
+            "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "username": "Queeny91832186"
+        },
+        {
+            "created_at": "2013-06-08T21:28:55.000Z",
+            "id": "1493965706",
+            "name": "Shiv",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1484189208478580738/o4DF5BFj_normal.jpg",
+            "username": "shivman_123"
+        },
+        {
+            "created_at": "2018-04-08T22:47:06.000Z",
+            "id": "983114034902790144",
+            "name": "ACAB",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1423486011162566656/cDvJIdJ1_normal.jpg",
+            "username": "bellacconnolly"
+        },
+        {
+            "created_at": "2013-08-01T12:25:30.000Z",
+            "id": "1637872064",
+            "name": "Lady McBain\ud83c\udde9\ud83c\uddea",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1400458674091433984/7Ssn8TtS_normal.jpg",
+            "username": "RooneyEastwood"
+        },
+        {
+            "created_at": "2014-12-20T21:37:34.000Z",
+            "id": "2934257459",
+            "name": "Haley Tenore",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1492999082691874818/qXoEJiAj_normal.jpg",
+            "username": "HaleyTenore"
+        },
+        {
+            "created_at": "2009-03-25T17:38:42.000Z",
+            "id": "26545792",
+            "name": "liam",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1345857181116211201/lOCIHDLi_normal.jpg",
+            "username": "baoill_"
+        },
+        {
+            "created_at": "2012-09-03T16:11:39.000Z",
+            "id": "800707327",
+            "name": "Marle Spragg",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1522800013763485702/dN8XKuQM_normal.jpg",
+            "username": "MarleSpragg"
+        },
+        {
+            "created_at": "2019-03-18T15:19:44.000Z",
+            "id": "1107662879719858177",
+            "name": "Hannah McClelland",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1489751584305258502/q7tW23Ey_normal.jpg",
+            "username": "Hhaannaahhhhhh"
+        },
+        {
+            "created_at": "2020-11-18T21:21:20.000Z",
+            "id": "1329172845352640516",
+            "name": "\u00e9raos #NOLO",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1527791010675310595/_HKwfI3Q_normal.jpg",
+            "username": "fatoulogy"
+        },
+        {
+            "created_at": "2013-09-09T09:49:36.000Z",
+            "id": "1843108831",
+            "name": "\ud83c\udf3c\u2728",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1452394095868010500/VOWIkENK_normal.jpg",
+            "username": "okaybutyes"
+        },
+        {
+            "created_at": "2015-05-04T21:30:53.000Z",
+            "id": "3234376726",
+            "name": "Jesse Kennedy",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1529926570835574789/e4s_nIgZ_normal.jpg",
+            "username": "JesseKennedyPHL"
+        },
+        {
+            "created_at": "2012-01-03T20:43:26.000Z",
+            "id": "454283202",
+            "name": "CineFrames",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1511484944102666241/25Vu_Nn5_normal.jpg",
+            "username": "Sangeerth287"
+        },
+        {
+            "created_at": "2010-08-31T22:16:43.000Z",
+            "id": "185399805",
+            "name": "sabrein",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1074746883292176384/jvazqWSU_normal.jpg",
+            "username": "sabrein16"
+        },
+        {
+            "created_at": "2010-12-25T16:37:37.000Z",
+            "id": "230479789",
+            "name": "Ashish",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1497982481986830338/WG_J3hIt_normal.jpg",
+            "username": "whothhellryou"
+        },
+        {
+            "created_at": "2013-05-11T15:53:04.000Z",
+            "id": "1420983475",
+            "name": "Charlie",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1475492986175864839/sNtyBRUQ_normal.jpg",
+            "username": "cab19992342"
+        },
+        {
+            "created_at": "2020-10-11T14:39:46.000Z",
+            "id": "1315301035376816129",
+            "name": "Bryce Clack",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1516997874890035200/HGWiFmVY_normal.jpg",
+            "username": "BryceClack"
+        },
+        {
+            "created_at": "2012-09-02T00:15:00.000Z",
+            "id": "797150245",
+            "name": "Jake Wood",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1453433064445579265/N9NpqETc_normal.jpg",
+            "username": "Jacob_Wood15"
+        },
+        {
+            "created_at": "2020-02-07T11:47:53.000Z",
+            "id": "1225747775092133889",
+            "name": "Allan",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1229854948160135169/o8EthmxV_normal.jpg",
+            "username": "Allan28673917"
+        },
+        {
+            "created_at": "2011-10-06T02:59:28.000Z",
+            "id": "385769349",
+            "name": "Garret",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1485998540417605632/XN93ZWI7_normal.jpg",
+            "username": "mmmgarret"
+        },
+        {
+            "created_at": "2014-01-12T02:21:36.000Z",
+            "id": "2275961937",
+            "name": "Maurice Johnson",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1342375052919107585/CuG9S94L_normal.jpg",
+            "username": "Succeed_Mojo"
+        },
+        {
+            "created_at": "2022-04-14T21:58:48.000Z",
+            "id": "1514724826639912960",
+            "name": "urban area avoider",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1514725436676263940/8EE93J0t_normal.jpg",
+            "username": "city_disliker"
+        },
+        {
+            "created_at": "2017-02-19T17:21:36.000Z",
+            "id": "833365931011272706",
+            "name": "Matthew Murphy",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1087293362988859392/alU0TV2l_normal.jpg",
+            "username": "matthewjmurphy"
+        },
+        {
+            "created_at": "2015-01-21T21:15:02.000Z",
+            "id": "2990597291",
+            "name": "Thomas Pears",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1519460575117561862/IsdIdZz4_normal.jpg",
+            "username": "tcpears15"
+        },
+        {
+            "created_at": "2018-03-07T01:22:48.000Z",
+            "id": "971194420090626049",
+            "name": "justin",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1398792678641487876/hUDZwoei_normal.jpg",
+            "username": "justinli99"
+        },
+        {
+            "created_at": "2009-06-20T15:12:57.000Z",
+            "id": "49028198",
+            "name": "Medically Induced Nap",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/2398528372/4vrv7s9ei893ptyqkw4b_normal.png",
+            "username": "industrymedia"
+        },
+        {
+            "created_at": "2022-05-17T18:19:02.000Z",
+            "id": "1526628322179948544",
+            "name": "Marcos VPZ",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1526628636912242688/2j287Rjb_normal.jpg",
+            "username": "VpzMarcos"
+        }
+    ],
+    "oldest_10_followers": [
+        {
+            "created_at": "2012-09-02T00:15:00.000Z",
+            "id": "797150245",
+            "name": "Jake Wood",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1453433064445579265/N9NpqETc_normal.jpg",
+            "username": "Jacob_Wood15"
+        },
+        {
+            "created_at": "2020-02-07T11:47:53.000Z",
+            "id": "1225747775092133889",
+            "name": "Allan",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1229854948160135169/o8EthmxV_normal.jpg",
+            "username": "Allan28673917"
+        },
+        {
+            "created_at": "2011-10-06T02:59:28.000Z",
+            "id": "385769349",
+            "name": "Garret",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1485998540417605632/XN93ZWI7_normal.jpg",
+            "username": "mmmgarret"
+        },
+        {
+            "created_at": "2014-01-12T02:21:36.000Z",
+            "id": "2275961937",
+            "name": "Maurice Johnson",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1342375052919107585/CuG9S94L_normal.jpg",
+            "username": "Succeed_Mojo"
+        },
+        {
+            "created_at": "2022-04-14T21:58:48.000Z",
+            "id": "1514724826639912960",
+            "name": "urban area avoider",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1514725436676263940/8EE93J0t_normal.jpg",
+            "username": "city_disliker"
+        },
+        {
+            "created_at": "2017-02-19T17:21:36.000Z",
+            "id": "833365931011272706",
+            "name": "Matthew Murphy",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1087293362988859392/alU0TV2l_normal.jpg",
+            "username": "matthewjmurphy"
+        },
+        {
+            "created_at": "2015-01-21T21:15:02.000Z",
+            "id": "2990597291",
+            "name": "Thomas Pears",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1519460575117561862/IsdIdZz4_normal.jpg",
+            "username": "tcpears15"
+        },
+        {
+            "created_at": "2018-03-07T01:22:48.000Z",
+            "id": "971194420090626049",
+            "name": "justin",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1398792678641487876/hUDZwoei_normal.jpg",
+            "username": "justinli99"
+        },
+        {
+            "created_at": "2009-06-20T15:12:57.000Z",
+            "id": "49028198",
+            "name": "Medically Induced Nap",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/2398528372/4vrv7s9ei893ptyqkw4b_normal.png",
+            "username": "industrymedia"
+        },
+        {
+            "created_at": "2022-05-17T18:19:02.000Z",
+            "id": "1526628322179948544",
+            "name": "Marcos VPZ",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1526628636912242688/2j287Rjb_normal.jpg",
+            "username": "VpzMarcos"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "user": "metal_gear",
+    "sentiments": {
+        "anger": 78,
+        "sorrow": 15,
+        "joy": 7
+    },
+    "times": {
+        "early morning": 4,
+        "late morning": 2,
+        "early afternoon": 3,
+        "late afternoon": 6,
+        "evening": 4,
+        "night": 2
+    },
+    "locations": [
+        "Home",
+        "Work"
+    ],
+    "most interacted": "senator_armstrong",
+    "interests": {
+        "politics": 108,
+        "food": 32,
+        "sports": 12
+
+    },
+    "longest follower": "moreplatesmoredates",
+    "most popular tweet": "https://twitter.com/Dillo_Day/status/1520061361576943616?cxt=HHwWgIC52abwq5gqAAAA",
+    "least popular tweet": "https://twitter.com/NorthwesternU/status/1520089284988055552?cxt=HHwWgMC5qdTJuJgqAAAA"
+
+}

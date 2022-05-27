@@ -1,0 +1,11 @@
+pandas
+numpy
+nltk
+transformers
+requests
+dash
+dash_iconify
+json
+plotly
+os
+whitenoise
