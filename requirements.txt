@@ -6,5 +6,4 @@ requests
 dash
 dash_iconify
 plotly
-os
 whitenoise
